@@ -1,2 +1,1 @@
-# spamzad
-Spam tool to spam annoying messages
+A fake page creation tool
